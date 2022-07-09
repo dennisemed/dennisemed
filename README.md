@@ -16,7 +16,7 @@
   ### You can follow me at 
  
 <div> 
-  <a href="https://instagram.com/dennisemed" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/mariadmaced" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dennisemed1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23b50f00?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dennisemed" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flate&logo=linkedin&logoColor=white" target="_blank"></a> 
  
