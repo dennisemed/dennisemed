@@ -29,8 +29,8 @@ I am a Front End (also Full Stack) Developer from Brazil.
 
 ---
 
-<div>
+<div align="center">
     <a href="https://github.com/dennisemed">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dennisemed&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisemed&layout=compact&langs_count=6&theme=cobalt"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dennisemed&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisemed&layout=compact&langs_count=6&theme=cobalt"/>
 </div>
